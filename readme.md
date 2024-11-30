@@ -1,5 +1,7 @@
 # 须知
 
+## 本工程是数字图像处理编程作业
+
 ## requirement
 
 - graphviz                  0.20.3  查看huffman编码二叉树
